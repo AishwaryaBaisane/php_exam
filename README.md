@@ -3,8 +3,7 @@
 - This project demonstrates a PHP-based RESTful API for performing CRUD operations on three independent database tables: Users, Products, and Orders. The API is developed with modular folder organization, follows REST principles, and includes error handling with JSON responses.
 
 ### 📁 Project Structure
-bash
-Copy code
+```dart
 📂 project-directory
 ├── 📂 controllers     # Contains logic for handling API requests
 ├── 📂 models          # Database connection and query functions
@@ -13,7 +12,7 @@ Copy code
 ├── index.php          # Entry point for the API
 ├── README.md          # Project documentation
 └── database.sql       # SQL script to set up the database schema
-
+```
 
 ### 🛠️ Features
 - Users API:
